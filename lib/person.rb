@@ -3,6 +3,14 @@ def person
 
 end
 
+#job = "Lawyer"
+#job= "lawyer"
+
+
+end
+
+
+
 #name = "Peter"
 @name = "Peter"
   puts = Peter
