@@ -1,30 +1,8 @@
-def person
-  variable #name= "Peter"
-  #job= "Lawyer"
-  
+def person 
 end
 
-
-
-
-end
-
-#job = "Lawyer"
-#job= "lawyer"
-
-
-end
-
-
-
-#name = "Peter"
-@name = "Peter"
-  puts = Peter
-
-end
-
-#job= Lawyer
-@job= Lawyer
-
+#name = @name
+#job = @lawyer
   end
 end
+
