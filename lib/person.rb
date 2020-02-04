@@ -1,5 +1,11 @@
 def person
-  puts = Peter
+  variable #name= "Peter"
+  #job= "Lawyer"
+  
+end
+
+
+
 
 end
 
