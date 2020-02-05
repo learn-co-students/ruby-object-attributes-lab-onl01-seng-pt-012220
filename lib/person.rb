@@ -1,20 +1,13 @@
-def person 
-end
-
-#name = @name
-#job = @lawyer
-
-end
-
-#name = James
-#job = lawyer
-end
-
-
-
-
-#name = @name
-#job = @lawyer
+class = Person
+   def name = {Peter}
+     #name = Peter
   end
 end
+
+
+def name = {Larry}
+  @name= Larry
+ end
+end
+
 

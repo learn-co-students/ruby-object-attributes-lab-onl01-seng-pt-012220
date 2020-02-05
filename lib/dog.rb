@@ -1,25 +1,31 @@
-def Dog 
-  end
-
-Dog = name
-  puts name
-  
+class = Dog 
 end
 
-#name = "fido"
+>fido = Dog.new
+  puts = fido
+end
+
+def = bark
+  puts = "woof"
+end
+
 #breed = poodle
+  puts poodle
+end
+
+>snoopy = Dog.new
+  puts = snoopy
+end
+
+def = bark
+  puts = "woof"
+end
+
+#breed = beagle
+  puts = beagle
 end
 
 
-#name = @name
-#breed = @poodle
-end
 
-
-#name = "lassie"
-#breed= "Labrador"
-@breed 
-  end
-end
 
 
